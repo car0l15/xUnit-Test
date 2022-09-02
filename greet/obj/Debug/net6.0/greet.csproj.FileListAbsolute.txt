@@ -3,3 +3,13 @@
 /home/caroline/greet/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
 /home/caroline/greet/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
 /home/caroline/greet/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/caroline/greet/greet/bin/Debug/net6.0/greet
+/home/caroline/greet/greet/bin/Debug/net6.0/greet.deps.json
+/home/caroline/greet/greet/bin/Debug/net6.0/greet.runtimeconfig.json
+/home/caroline/greet/greet/bin/Debug/net6.0/greet.dll
+/home/caroline/greet/greet/bin/Debug/net6.0/greet.pdb
+/home/caroline/greet/greet/obj/Debug/net6.0/greet.dll
+/home/caroline/greet/greet/obj/Debug/net6.0/refint/greet.dll
+/home/caroline/greet/greet/obj/Debug/net6.0/greet.pdb
+/home/caroline/greet/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
+/home/caroline/greet/greet/obj/Debug/net6.0/ref/greet.dll
